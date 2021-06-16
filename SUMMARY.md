@@ -4,7 +4,8 @@
 
 ## Tutorials
 
-* [How to code](tutorials/how-to-code.md)
+* [How to code](tutorials/how-to-code/README.md)
+  * [Table](tutorials/how-to-code/table.md)
 
 ## Others
 
